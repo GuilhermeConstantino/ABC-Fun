@@ -31,7 +31,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-
 # Miscellaneous
 *.class
 *.lock
@@ -175,3 +174,6 @@ ios/firebase_app_id_file.json
 macos/firebase_app_id_file.json
 macos/Runner/GoogleService-Info.plist
 lib/firebase_options.dart
+
+# FVM Version Cache
+.fvm/
